@@ -4,6 +4,8 @@
 
 *MIDI mode for winry25tc*
 
+All of buttons mapped to midi notes: from C/48 (90 30 7F) to D2/74 (80 4A 7F)
+
 * Keyboard Maintainer: [Constantine Yerokhin](https://github.com/err5)
 * Hardware Supported: Winry25tc (SpiderIsland's 5x5 MacroPad)
 * Hardware Availability: https://www.aliexpress.com/item/1005002559266513.html?spm=a2g0o
